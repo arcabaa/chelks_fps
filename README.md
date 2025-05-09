@@ -1,0 +1,2 @@
+### chelk's FPS
+To use chelk's FPS, download the files, create a folder called "chelks_fps" in your AddOns folder, and then make sure you have the core.lua, options.lua, and chelks_fps.toc files in the folder. After that, you can sit back, launch your game, and enjoy!
