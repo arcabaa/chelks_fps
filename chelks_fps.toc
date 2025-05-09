@@ -1,0 +1,9 @@
+## Interface: 11507
+## Title: chelk's FPS
+## Notes: Shows FPS and Ping on screen
+## Author: chelk
+## Version: 1.0
+## SavedVariables: ChelksFpsDB
+
+core.lua
+options.lua
